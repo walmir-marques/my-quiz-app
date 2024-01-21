@@ -1,0 +1,141 @@
+{
+  "questions": [
+    {
+      "question": "Qual é a casa de Harry Potter em Hogwarts?",
+      "options": ["Gryffindor", "Slytherin", "Hufflepuff", "Ravenclaw"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Qual é o nome do elfo doméstico que serve à família Malfoy?",
+      "options": ["Dobby", "Kreacher", "Winky", "Hokey"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Quem é o melhor amigo de Harry Potter?",
+      "options": [
+        "Ron Weasley",
+        "Hermione Granger",
+        "Neville Longbottom",
+        "Draco Malfoy"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Qual é a escola de magia rival de Hogwarts?",
+      "options": [
+        "Beauxbatons Academy of Magic",
+        "Durmstrang Institute",
+        "Ilvermorny School of Witchcraft and Wizardry",
+        "Castelobruxo"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Qual é o nome do irmão mais velho de Ron Weasley?",
+      "options": ["Charlie", "Percy", "Bill", "Fred"],
+      "correctOption": 2,
+      "points": 10
+    },
+
+    {
+      "question": "Quem é o diretor da Escola de Magia e Bruxaria de Hogwarts no primeiro livro?",
+      "options": [
+        "Albus Dumbledore",
+        "Severus Snape",
+        "Gellert Grindelwald",
+        "Minerva McGonagall"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Qual é a criatura que só pode ser vista por quem viu a morte?",
+      "options": [
+        "Testrálios",
+        "Hippogriffs",
+        "Blast-Ended Skrewts",
+        "Acromântulas"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "O que a sigla O.W.L. representa em inglês?",
+      "options": [
+        "Ordinary Wizarding Level",
+        "Outstanding Wizarding Learning",
+        "Official Wizarding License",
+        "Original Wizarding Language"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Quem foi o professor de Defesa Contra as Artes das Trevas no terceiro ano de Harry?",
+      "options": [
+        "Remus Lupin",
+        "Gilderoy Lockhart",
+        "Quirinus Quirrell",
+        "Dolores Umbridge"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Qual é o feitiço que faz objetos levitarem no ar?",
+      "options": ["Wingardium Leviosa", "Expelliarmus", "Alohomora", "Lumos"],
+      "correctOption": 0,
+      "points": 20
+    },
+
+    {
+      "question": "Quem é o guardião das chaves e terrenos de Hogwarts?",
+      "options": [
+        "Rubeus Hagrid",
+        "Filius Flitwick",
+        "Argus Filch",
+        "Pomona Sprout"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "Qual é o feitiço utilizado para invocar a varinha de um bruxo?",
+      "options": ["Accio", "Alohomora", "Expelliarmus", "Imperio"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "Qual é a última palavra do último livro da série Harry Potter?",
+      "options": ["Always", "Hogwarts", "End", "Goodbye"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "Quem matou Sirius Black?",
+      "options": [
+        "Bellatrix Lestrange",
+        "Severus Snape",
+        "Lucius Malfoy",
+        "Voldemort"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "Qual é o nome verdadeiro de Alastor Moody?",
+      "options": [
+        "Barty Crouch Jr.",
+        "Igor Karkaroff",
+        "Rufus Scrimgeour",
+        "Kingsley Shacklebolt"
+      ],
+      "correctOption": 0,
+      "points": 30
+    }
+  ]
+}
